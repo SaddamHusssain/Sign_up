@@ -1,7 +1,7 @@
 [package]
 name = "main_file"
 version = "0.1.0"
-authors = ["KAKA-OFFICE"]
+authors = ["Saddam_Hussain <saddam.jass1@gmail.com>"]
 edition = "2018"
 license = "Jass"
 description = "Signup Form"
